@@ -1,0 +1,1 @@
+<div style="align:center;"><a href="https://github.com/SidVal/blogger-bootstrap" title="GitHub Blogger Bootstrap"><img src="https://badgen.net/github/stars/sidval/blogger-bootstrap" alt="Github Stars" /></a></div>
